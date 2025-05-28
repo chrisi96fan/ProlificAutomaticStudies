@@ -1,4 +1,5 @@
-⚠️ **Note:** This repository is a fork of [spin311/ProlificAutomaticStudies](https://github.com/spin311/ProlificAutomaticStudies)  with added compatibility for **Mozilla Firefox** browsers.  
+⚠️ **Note:** This repository is a fork of [spin311/ProlificAutomaticStudies](https://github.com/spin311/ProlificAutomaticStudies)  with added compatibility for **Mozilla Firefox** browsers.
+
 Original extension was designed for Chrome only. For Chrome users, please refer to the original repository.
 
 
