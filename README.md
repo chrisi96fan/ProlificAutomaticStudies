@@ -1,3 +1,10 @@
+⚠️ **Note:** This repository is a fork of [spin311/ProlificAutomaticStudies](https://github.com/spin311/ProlificAutomaticStudies)  
+with added compatibility for **Mozilla Firefox** browsers.  
+Original extension was designed for Chrome only.
+
+For Chrome users, please refer to the original repository.
+
+
 # Prolific Studies Notifier
 
 Welcome Prolific Studies Notifier! <img src="imgs/logo.png" alt="icon" height="32">
