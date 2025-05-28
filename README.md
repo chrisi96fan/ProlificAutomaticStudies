@@ -50,3 +50,17 @@ Make sure to pin the extension.
 If you have any suggestions or questions, you can contact me at [spin311pro@gmail.com](mailto:spin311pro@gmail.com)
 
 Enjoy 😊
+
+
+# Firefox
+
+This version unfortunately lacks a lof of the functionality of the original like the extensions interface funcitoning properly.
+
+However the main use of getting notified of new studies on the the prolific dashboard via tab name changes still works.
+
+Installation:
+
+1. download 
+2. go to about:debugging#/runtime/this-firefox in firefox.
+
+
