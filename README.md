@@ -58,15 +58,16 @@ The main feature—getting notified of new studies on the Prolific dashboard via
 
 
 Installation
-Under Releases, download ProlificAutomaticStudies_firefox.zip and save it to a location you prefer.
 
-Extract the ZIP file to a folder.
+1. Under Releases, download ProlificAutomaticStudies_firefox.zip and save it to a location you prefer.
 
-Open Firefox and go to about:debugging#/runtime/this-firefox.
+2. Extract the ZIP file to a folder.
 
-Click the “Add Temporary Extension” button.
+3. Open Firefox and go to about:debugging#/runtime/this-firefox.
 
-Navigate to the extracted folder and select the manifest.json file.
+4. Click the “Add Temporary Extension” button.
+
+5. Navigate to the extracted folder and select the manifest.json file.
 
 Note: Since this is an experimental, temporary extension, you’ll need to reload it every time Firefox restarts, and the notifications may not always trigger as expected.
 
