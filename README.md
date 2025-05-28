@@ -1,6 +1,6 @@
 ⚠️ **Note:** This repository is a fork of [spin311/ProlificAutomaticStudies](https://github.com/spin311/ProlificAutomaticStudies)  with added compatibility for **Mozilla Firefox** browsers.
 
-Original extension was designed for Chrome only. For Chrome users, please refer to the original repository.
+Original extension was designed for Chrome only. For Chrome users, please refer to the original repository or install the extension from the chrome web store.
 
 
 # Prolific Studies Notifier
@@ -52,13 +52,22 @@ Enjoy 😊
 
 # Firefox
 
-This version unfortunately lacks a lof of the functionality of the original like the extensions interface funcitoning properly.
+This Firefox version currently lacks some features from the original Chrome extension, including the full extension interface functionality.
 
-However the main use of getting notified of new studies on the the prolific dashboard via tab name changes still works.
+The main feature—getting notified of new studies on the Prolific dashboard via tab name changes—works most of the time, but it can be unreliable occasionally.
 
-Installation:
 
-1. download 
-2. go to about:debugging#/runtime/this-firefox in firefox.
+Installation
+Under Releases, download ProlificAutomaticStudies_firefox.zip and save it to a location you prefer.
+
+Extract the ZIP file to a folder.
+
+Open Firefox and go to about:debugging#/runtime/this-firefox.
+
+Click the “Add Temporary Extension” button.
+
+Navigate to the extracted folder and select the manifest.json file.
+
+Note: Since this is an experimental, temporary extension, you’ll need to reload it every time Firefox restarts, and the notifications may not always trigger as expected.
 
 
