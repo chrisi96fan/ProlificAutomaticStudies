@@ -2,7 +2,7 @@
 
 Original extension was designed for Chrome only. For Chrome users, please refer to the original repository or install the extension from the Chrome Web Store.
 
-
+Note: The original developer has released an official version for Firefox, install it from https://addons.mozilla.org/en-US/firefox/addon/prolific-studies-notifier/
 # Prolific Studies Notifier
 
 Welcome Prolific Studies Notifier! <img src="imgs/logo.png" alt="icon" height="32">
